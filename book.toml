@@ -1,0 +1,8 @@
+[book]
+authors = []
+language = "cn"
+multilingual = false
+src = "src"
+
+[output.html]
+mathjax-support = true
